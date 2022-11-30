@@ -21,7 +21,6 @@ public class BuscaBlogPage extends Utils {
 	private By botao_procurar = By.cssSelector("div[data-id='0d410f5'] > div > form > div > button");
 	private By resultado_obtido_pesquisa = By.cssSelector("div[data-id='a57d20c'] > div > h2");
 	private By botao_fechar_anuncio = By.cssSelector("a[class='elementor-icon'] > svg >polygon");
-	private By botao_cookies = By.cssSelector("div[data-id='2a78197'] > div > div > a > span > span");
 	
 	//criação de construtor do driver
 	//para entregar um objeto de um modo específico
@@ -34,8 +33,6 @@ public class BuscaBlogPage extends Utils {
 	public void acessar_site() {
 		driver.get("https://ww2.soc.com.br/blog/");
 		driver.findElement(botao_fechar_anuncio).click();
-		esperar_elemento_estar_presente(botao_cookies, 10);
-		driver.findElement(botao_cookies).click();	
 	}
 	
 	//função para localizar e preenhcer o campo de pesquisa

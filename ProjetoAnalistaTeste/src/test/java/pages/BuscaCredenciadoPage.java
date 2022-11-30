@@ -35,6 +35,7 @@ public class BuscaCredenciadoPage extends Utils {
 	private By botao_selecionar_credenciado = By.cssSelector("section[data-codigo='13886']");
 	private By botao_saiba_mais = By.cssSelector("div[class='infowindow-maps'] > a > button");
 	private By info_credenciado = By.cssSelector("div[id='div-perfil-empresa'] > div:nth-of-type(2) section:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)");
+	private By botao_cookies = By.cssSelector("div[data-id='2a78197'] > div > div > a > span > span");
 	
 	//criação de construtor do driver
 	//para entregar um objeto de um modo específico
@@ -43,6 +44,11 @@ public class BuscaCredenciadoPage extends Utils {
 		this.driver = driver;
 	}
 
+	public void aceitar_cookies() {
+		esperar_elemento_estar_presente(botao_cookies, 10);
+		driver.findElement(botao_cookies).click();	
+	}
+	
 	public void rolar_página_até_o_final() {
 		JavascriptExecutor jse = (JavascriptExecutor)driver;
 		jse.executeScript("window.scrollTo(0,10000)");												//rolar até o final

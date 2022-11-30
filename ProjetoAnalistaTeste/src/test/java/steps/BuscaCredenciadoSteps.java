@@ -19,6 +19,7 @@ public class BuscaCredenciadoSteps extends RunTest {
 	
 	@Quando("acesso a funcionalidade Rede SOCNET")
 	public void acesso_a_funcionalidade_rede_socnet()  {
+		buscaCredenciadoPage.aceitar_cookies();
 		buscaCredenciadoPage.rolar_página_até_o_final();
 		buscaCredenciadoPage.acessar_rede_SOCNET();
 	}

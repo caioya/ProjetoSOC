@@ -2,7 +2,10 @@ package steps;
 
 import java.io.IOException;
 
+import org.junit.BeforeClass;
+
 import io.cucumber.java.AfterStep;
+import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
 import io.cucumber.java.pt.Dado;
 import io.cucumber.java.pt.Então;
@@ -42,5 +45,6 @@ public class BuscaBlogSteps extends RunTest {
 	public void AddScreenshot(Scenario scenario) throws IOException {
 		buscaBlogPage.screenshot(scenario);
 	}
+	
 }
 

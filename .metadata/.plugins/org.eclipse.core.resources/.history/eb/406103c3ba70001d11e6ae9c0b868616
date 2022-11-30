@@ -1,0 +1,55 @@
+package steps;
+
+import java.io.IOException;
+
+import org.junit.BeforeClass;
+
+import io.cucumber.java.AfterStep;
+import io.cucumber.java.Before;
+import io.cucumber.java.Scenario;
+import io.cucumber.java.pt.Dado;
+import io.cucumber.java.pt.Então;
+import io.cucumber.java.pt.Quando;
+import pages.BuscaBlogPage;
+import runner.RunTest;
+
+//extends RunTest para herdar as variáveis de RunTest
+public class BuscaBlogSteps extends RunTest {
+	
+	//instanciar para criar uma cópia de uma classe e ela se tornar útil nesta classe
+	BuscaBlogPage buscaBlogPage = new BuscaBlogPage(driver);
+	
+	@Dado("^que estou na página do blog de saúde e segurança do trabalho$")
+	public void que_estou_na_página_do_blog_de_saúde_e_segurança_do_trabalho()  {
+		buscaBlogPage.acessar_site();
+	}
+	
+	@Quando("^digito a informação (.+) a ser procurada na barra de pesquisa$")
+	public void digito_a_informação_a_ser_procurada_na_barra_de_pesquisa(String info) {
+		buscaBlogPage.preencher_lacuna_procurar(info);
+	}
+	
+	@Quando("^envio a solicitação da pesquisa$")
+	public void envio_a_solicitação_da_pesquisa() {
+		buscaBlogPage.procurar_info();
+	}
+	
+	@Então("^recebo e verifico o resultado com as informações buscadas$")
+	public void recebo_e_verifico_o_resultado_com_as_informações_buscadas() {
+		buscaBlogPage.verificar_resultado();
+	}
+
+	//função para tirar screenshot após cada step
+	//exceção IOException: ignorar entradas e saídas
+	@AfterStep
+	public void AddScreenshot(Scenario scenario) throws IOException {
+		buscaBlogPage.screenshot(scenario);
+	}
+	
+	@BeforeClass
+	public void aceitar_cookies() {
+		buscaBlogPage.aceitar_cookies();
+	}
+	
+}
+
