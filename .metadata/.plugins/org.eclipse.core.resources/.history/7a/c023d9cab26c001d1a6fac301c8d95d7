@@ -1,0 +1,54 @@
+package pages;
+
+import org.junit.AfterClass;
+import org.junit.Assert;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import utils.Utils;
+
+public class BuscaBlogPage extends Utils {
+
+	public WebDriver driver;
+	String termo_pesquisado = "cidadania";
+	private By lacuna_procurar = By.cssSelector("div[data-id='0d410f5'] > div > form > div > input");
+	private By botao_procurar = By.cssSelector("div[data-id='0d410f5'] > div > form > div > button");
+	private By resultado_obtido_pesquisa = By.cssSelector("div[data-id='a57d20c'] > div > h2");
+	
+	//criação de construtor do driver
+	//para entregar um objeto de um modo específico
+	public BuscaBlogPage(WebDriver driver) {
+		//this. para diferenciar o parâmetro do atributo
+		this.driver = driver;
+	}
+	
+	//função para iniciar o navegador e acessar o link desejado
+	public void acessar_site() {
+		driver = new ChromeDriver();
+		driver.get("https://ww2.soc.com.br/blog/");
+	}
+	
+	//função para localizar e preenhcer o campo de pesquisa
+	public void preencher_lacuna_procurar() {
+		driver.findElement(lacuna_procurar).sendKeys(termo_pesquisado);
+	}
+	
+	//função para clicar em procurar
+	public void procurar_info() {
+		driver.findElement(botao_procurar).click();
+	}
+	
+	//função para obter o resultado da pesquisa e compará-lo com o esperado
+	public void verificar_resultado() {
+		String resultado_obtido = driver.findElement(resultado_obtido_pesquisa).getText();
+		Assert.assertEquals(resultado_obtido, "Resultados da Pesquisa por: " + termo_pesquisado);
+	}
+	
+	public void sair_driver() {
+		driver.quit();
+	}
+	
+}
+	
+

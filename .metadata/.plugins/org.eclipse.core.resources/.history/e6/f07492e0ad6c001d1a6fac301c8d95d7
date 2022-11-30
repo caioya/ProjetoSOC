@@ -1,0 +1,19 @@
+package utils;
+
+import org.openqa.selenium.WebDriver;
+
+import pages.BuscaBlogPage;
+
+public class FecharDriver extends BuscaBlogPage {
+	
+	public WebDriver driver;
+	
+	public FecharDriver(WebDriver driver) {
+		this.driver = driver;
+	}
+
+	//função para fechar o driver
+	public void fechar_driver() {
+		driver.quit();
+	}
+}

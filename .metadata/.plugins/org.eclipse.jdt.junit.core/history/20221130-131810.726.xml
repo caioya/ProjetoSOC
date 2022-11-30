@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RunTest" project="ProjetoAnalistaTeste" tests="6" started="6" failures="0" errors="2" ignored="0">
+  <testsuite name="runner.RunTest" time="5.749">
+    <testsuite name="Buscar credenciado no blog" time="5.749">
+      <testsuite name="Realizar busca de credenciado no blog" time="5.749" incomplete="true">
+        <error>org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;span class="elementor-button-text"&gt;...&lt;/span&gt; is not clickable at point (789, 536). Other element would receive the click: &lt;div class="dialog-message dialog-lightbox-message"&gt;...&lt;/div&gt;
+  (Session info: chrome=108.0.5359.71)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e784aa97449c3d618c565146d72d01e2, clickElement {id=6733c6f7-eef4-4e49-8062-904800b5308f}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.71, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\Caio\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59022}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59022/devtoo..., se:cdpVersion: 108.0.5359.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (e784aa97449c3d618c565146d72d01e2)] -&gt; css selector: div[data-id='2a78197'] &gt; div &gt; div &gt; a &gt; span &gt; span]
+Session ID: e784aa97449c3d618c565146d72d01e2&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)&#13;
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)&#13;
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:541)&#13;
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)&#13;
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)&#13;
+	at pages.BuscaBlogPage.acessar_site(BuscaBlogPage.java:38)&#13;
+	at steps.BuscaBlogSteps.que_estou_na_página_do_blog_de_saúde_e_segurança_do_trabalho(BuscaBlogSteps.java:21)&#13;
+	at ✽.que estou na página do blog de saúde e segurança do trabalho(file:///C:/Users/Caio/eclipse-workspace-SOC/ProjetoAnalistaTeste/src/test/resource/features/busca_credenciados.feature:9)&#13;
+&#13;
+</error>
+        <testcase name="que estou na página do blog de saúde e segurança do trabalho" classname="Realizar busca de credenciado no blog" time="5.021">
+          <error>org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;span class="elementor-button-text"&gt;...&lt;/span&gt; is not clickable at point (789, 536). Other element would receive the click: &lt;div class="dialog-message dialog-lightbox-message"&gt;...&lt;/div&gt;
+  (Session info: chrome=108.0.5359.71)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e784aa97449c3d618c565146d72d01e2, clickElement {id=6733c6f7-eef4-4e49-8062-904800b5308f}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.71, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\Caio\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59022}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59022/devtoo..., se:cdpVersion: 108.0.5359.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (e784aa97449c3d618c565146d72d01e2)] -&gt; css selector: div[data-id='2a78197'] &gt; div &gt; div &gt; a &gt; span &gt; span]
+Session ID: e784aa97449c3d618c565146d72d01e2&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#13;
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)&#13;
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)&#13;
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)&#13;
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)&#13;
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)&#13;
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)&#13;
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:541)&#13;
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)&#13;
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)&#13;
+	at pages.BuscaBlogPage.acessar_site(BuscaBlogPage.java:38)&#13;
+	at steps.BuscaBlogSteps.que_estou_na_página_do_blog_de_saúde_e_segurança_do_trabalho(BuscaBlogSteps.java:21)&#13;
+	at ✽.que estou na página do blog de saúde e segurança do trabalho(file:///C:/Users/Caio/eclipse-workspace-SOC/ProjetoAnalistaTeste/src/test/resource/features/busca_credenciados.feature:9)&#13;
+&#13;
+</error>
+        </testcase>
+        <testcase name="acesso a funcionalidade Rede SOCNET" classname="Realizar busca de credenciado no blog" time="0.009">
+          <skipped>io.cucumber.junit.SkippedThrowable: This step is skipped&#13;
+&#13;
+</skipped>
+        </testcase>
+        <testcase name="acesso buscar credenciados" classname="Realizar busca de credenciado no blog" time="0.001">
+          <skipped>io.cucumber.junit.SkippedThrowable: This step is skipped&#13;
+&#13;
+</skipped>
+        </testcase>
+        <testcase name="preencho os filtros de busca" classname="Realizar busca de credenciado no blog" time="0.001">
+          <skipped>io.cucumber.junit.SkippedThrowable: This step is skipped&#13;
+&#13;
+</skipped>
+        </testcase>
+        <testcase name="seleciono o credenciado desejado" classname="Realizar busca de credenciado no blog" time="0.001">
+          <skipped>io.cucumber.junit.SkippedThrowable: This step is skipped&#13;
+&#13;
+</skipped>
+        </testcase>
+        <testcase name="visualizo o perfil do credenciado" classname="Realizar busca de credenciado no blog" time="0.003">
+          <skipped>io.cucumber.junit.SkippedThrowable: This step is skipped&#13;
+&#13;
+</skipped>
+        </testcase>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

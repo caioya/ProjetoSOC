@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RunTest" project="ProjetoAnalistaTeste" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="runner.RunTest" time="15.892">
+    <testsuite name="Buscar credenciado no blog" time="15.892">
+      <testsuite name="Realizar busca de credenciado no blog" time="15.892">
+        <testcase name="que estou na página do blog de saúde e segurança do trabalho" classname="Realizar busca de credenciado no blog" time="5.64"/>
+        <testcase name="acesso a funcionalidade Rede SOCNET" classname="Realizar busca de credenciado no blog" time="1.95"/>
+        <testcase name="acesso buscar credenciados" classname="Realizar busca de credenciado no blog" time="0.635"/>
+        <testcase name="preencho os filtros de busca" classname="Realizar busca de credenciado no blog" time="2.607"/>
+        <testcase name="seleciono o credenciado desejado" classname="Realizar busca de credenciado no blog" time="2.874"/>
+        <testcase name="visualizo o perfil do credenciado" classname="Realizar busca de credenciado no blog" time="0.106"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

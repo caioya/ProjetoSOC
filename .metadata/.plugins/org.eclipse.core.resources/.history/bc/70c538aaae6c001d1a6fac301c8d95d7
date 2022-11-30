@@ -1,0 +1,21 @@
+package utils;
+
+import org.openqa.selenium.WebDriver;
+
+import io.cucumber.java.After;
+import steps.BuscaBlogSteps;
+
+public class FecharDriver extends BuscaBlogSteps {
+	
+	public WebDriver driver;
+	
+	public FecharDriver(WebDriver driver) {
+		this.driver = driver;
+	}
+
+	//função para fechar o driver
+	@After
+	public void fechar_driver() {
+		driver.quit();
+	}
+}
