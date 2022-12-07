@@ -1,14 +1,12 @@
 package steps;
 
-import java.io.IOException;
-
-import io.cucumber.java.AfterStep;
-import io.cucumber.java.Scenario;
 import io.cucumber.java.pt.Então;
 import io.cucumber.java.pt.Quando;
 import pages.BuscaBlogPage;
 import pages.BuscaCredenciadoPage;
 import runner.RunTest;
+
+//Classe para testar a pesquisa de um credenciado na Rede SOCNET
 
 //extends RunTest para herdar as variáveis de RunTest
 public class BuscaCredenciadoSteps extends RunTest {
@@ -18,9 +16,8 @@ public class BuscaCredenciadoSteps extends RunTest {
 	BuscaBlogPage buscaBlogPage = new BuscaBlogPage(driver);
 	
 	@Quando("acesso a funcionalidade Rede SOCNET")
-	public void acesso_a_funcionalidade_rede_socnet()  {
+	public void acesso_a_funcionalidade_rede_socnet() throws InterruptedException  {
 		buscaCredenciadoPage.aceitar_cookies();
-		buscaCredenciadoPage.rolar_página_até_o_final();
 		buscaCredenciadoPage.acessar_rede_SOCNET();
 	}
 	
@@ -53,12 +50,5 @@ public class BuscaCredenciadoSteps extends RunTest {
 	@Então("visualizo o perfil do credenciado")
 	public void visualizo_o_perfil_do_credenciado() {
 		buscaCredenciadoPage.checar_perfil();
-	}
-	
-	//função para tirar screenshot após cada step
-	//exceção IOException: ignorar entradas e saídas
-	@AfterStep
-	public void AddScreenshot(Scenario scenario) throws IOException {
-		buscaBlogPage.screenshot(scenario);
 	}
 }

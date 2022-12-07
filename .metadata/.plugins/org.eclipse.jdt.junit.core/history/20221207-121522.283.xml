@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RunTest" project="ProjetoAnalistaTeste" tests="14" started="14" failures="0" errors="2" ignored="0">
+  <testsuite name="runner.RunTest" time="45.361">
+    <testsuite name="Buscar credenciado no blog" time="29.028">
+      <testsuite name="Realizar busca de credenciado no blog" time="29.028" incomplete="true">
+        <error>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.cssSelector: div[id='lnk-mostra-opcoes'] &gt; span[class='alteracao'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.95, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Caio\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:64206}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64206/devtoo..., se:cdpVersion: 108.0.5359.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7f2e008f8f7b1d047974d0a7ff644271&#13;
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:87)&#13;
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)&#13;
+	at support.Utils.esperar_elemento_estar_presente(Utils.java:14)&#13;
+	at pages.BuscaCredenciadoPage.clicar_area_pesquisa(BuscaCredenciadoPage.java:128)&#13;
+	at steps.BuscaCredenciadoSteps.preencho_os_filtros_de_busca(BuscaCredenciadoSteps.java:31)&#13;
+	at ✽.preencho os filtros de busca(file:///C:/Users/Caio/eclipse-workspace-SOC/ProjetoAnalistaTeste/src/test/resource/features/busca_de_credenciados.feature:12)&#13;
+&#13;
+</error>
+        <testcase name="que estou na página do blog de saúde e segurança do trabalho" classname="Realizar busca de credenciado no blog" time="6.716"/>
+        <testcase name="acesso a funcionalidade Rede SOCNET" classname="Realizar busca de credenciado no blog" time="7.306"/>
+        <testcase name="acesso buscar credenciados" classname="Realizar busca de credenciado no blog" time="3.595"/>
+        <testcase name="preencho os filtros de busca" classname="Realizar busca de credenciado no blog" time="10.231">
+          <error>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.cssSelector: div[id='lnk-mostra-opcoes'] &gt; span[class='alteracao'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.95, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Caio\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:64206}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64206/devtoo..., se:cdpVersion: 108.0.5359.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7f2e008f8f7b1d047974d0a7ff644271&#13;
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:87)&#13;
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)&#13;
+	at support.Utils.esperar_elemento_estar_presente(Utils.java:14)&#13;
+	at pages.BuscaCredenciadoPage.clicar_area_pesquisa(BuscaCredenciadoPage.java:128)&#13;
+	at steps.BuscaCredenciadoSteps.preencho_os_filtros_de_busca(BuscaCredenciadoSteps.java:31)&#13;
+	at ✽.preencho os filtros de busca(file:///C:/Users/Caio/eclipse-workspace-SOC/ProjetoAnalistaTeste/src/test/resource/features/busca_de_credenciados.feature:12)&#13;
+&#13;
+</error>
+        </testcase>
+        <testcase name="seleciono o credenciado desejado" classname="Realizar busca de credenciado no blog" time="0.011">
+          <skipped>io.cucumber.junit.SkippedThrowable: This step is skipped&#13;
+&#13;
+</skipped>
+        </testcase>
+        <testcase name="visualizo o perfil do credenciado" classname="Realizar busca de credenciado no blog" time="0.002">
+          <skipped>io.cucumber.junit.SkippedThrowable: This step is skipped&#13;
+&#13;
+</skipped>
+        </testcase>
+      </testsuite>
+    </testsuite>
+    <testsuite name="Buscar no blog" time="16.271">
+      <testsuite name="Realizar busca no blog #1" time="7.654">
+        <testcase name="que estou na página do blog de saúde e segurança do trabalho" classname="Realizar busca no blog #1" time="2.165"/>
+        <testcase name="digito a informação sustentabilidade a ser procurada na barra de pesquisa" classname="Realizar busca no blog #1" time="0.475"/>
+        <testcase name="envio a solicitação da pesquisa" classname="Realizar busca no blog #1" time="3.664"/>
+        <testcase name="recebo e verifico o resultado com as informações buscadas" classname="Realizar busca no blog #1" time="0.255"/>
+      </testsuite>
+      <testsuite name="Realizar busca no blog #2" time="8.191">
+        <testcase name="que estou na página do blog de saúde e segurança do trabalho" classname="Realizar busca no blog #2" time="3.062"/>
+        <testcase name="digito a informação conhecimento a ser procurada na barra de pesquisa" classname="Realizar busca no blog #2" time="0.157"/>
+        <testcase name="envio a solicitação da pesquisa" classname="Realizar busca no blog #2" time="3.816"/>
+        <testcase name="recebo e verifico o resultado com as informações buscadas" classname="Realizar busca no blog #2" time="0.117"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

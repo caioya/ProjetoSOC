@@ -9,6 +9,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
+//Teste Projeto para processo seletivo de automação de testes
+//Autor: Caio Yabiku
+//Data de apresentação: 07/12/2022 
+
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		plugin = {"html:target/cucumber.html","json:target/cucumber.json",
@@ -23,7 +27,7 @@ public class RunTest {
 	
 	//static para acessar de outros locais através do tipo que ele foi criado
 	public static WebDriver driver;
-	
+
 	//para reaproveitar os drivers em todos os locais
 	@BeforeClass
 	public static void começar() {

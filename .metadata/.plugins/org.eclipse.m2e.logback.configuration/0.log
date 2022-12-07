@@ -4086,3 +4086,890 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag not
 2022-11-30 14:28:34,027 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-11-30 14:28:34,028 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-11-30 14:28:34,030 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 08:15:51,006 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-01 08:17:17,929 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:17:17,950 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 08:17:17,953 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:17:17,956 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 08:20:05,533 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:20:05,537 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 08:20:05,539 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:20:05,543 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 08:21:02,366 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:21:02,368 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 08:21:02,371 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:21:02,374 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 08:36:57,347 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:36:57,350 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 08:36:57,354 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:36:57,357 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 08:38:40,588 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:38:40,590 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 08:38:40,592 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:38:40,595 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 08:40:16,777 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:40:16,780 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 08:40:16,788 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:40:16,789 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 08:43:33,614 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:43:33,615 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 08:43:33,617 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:43:33,618 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 08:54:31,704 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:54:31,707 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 08:54:31,712 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:54:31,715 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 08:55:52,971 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:55:52,973 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 08:55:52,976 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:55:52,978 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 08:57:33,768 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:57:33,770 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 08:57:33,772 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:57:33,774 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 08:57:34,864 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:57:34,866 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 08:57:34,867 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 08:57:34,869 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:07:24,617 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SOC:ProjetoAnalistaTeste:0.0.1-SNAPSHOT @ C:\Users\Caio\eclipse-workspace-SOC\ProjetoAnalistaTeste\pom.xml.
+2022-12-01 09:07:25,807 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:07:25,810 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:07:25,817 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:07:25,819 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:08:27,871 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SOC:ProjetoAnalistaTeste:0.0.1-SNAPSHOT @ C:\Users\Caio\eclipse-workspace-SOC\ProjetoAnalistaTeste\pom.xml.
+2022-12-01 09:08:28,842 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:08:28,845 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:08:28,852 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:08:28,854 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:08:47,556 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:08:47,559 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:08:47,561 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:08:47,563 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:08:57,659 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:08:57,661 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:08:57,682 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:08:57,685 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 09:13:50,429 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:13:50,431 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:13:50,434 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:13:50,436 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:13:55,372 [Worker-28: Launching RunTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:13:55,374 [Worker-28: Launching RunTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:13:55,384 [Worker-28: Launching RunTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:13:55,387 [Worker-28: Launching RunTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 09:14:48,822 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:14:48,824 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:14:48,828 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:14:48,832 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 09:14:57,556 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:14:57,558 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:14:57,560 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:14:57,562 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 09:15:06,236 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:15:06,238 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:15:06,242 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:15:06,244 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 09:15:37,545 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:15:37,547 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:15:37,549 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:15:37,551 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 09:24:38,707 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:24:38,709 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:24:38,711 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:24:38,713 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 09:28:32,189 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:28:32,191 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:28:32,193 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:28:32,195 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 09:29:14,384 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:29:14,386 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:29:14,388 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:29:14,390 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 09:29:17,466 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:29:17,468 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:29:17,471 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:29:17,474 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 09:30:29,911 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:30:29,914 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:30:29,916 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:30:29,921 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 09:31:32,397 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:31:32,399 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:31:32,401 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:31:32,403 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 09:31:39,203 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:31:39,205 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 09:31:39,209 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:31:39,211 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 10:03:56,705 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:03:56,706 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:03:56,708 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:03:56,709 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:04:08,359 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:04:08,362 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:04:08,363 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:04:08,365 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:10:12,101 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-01 10:11:16,708 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:11:16,717 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:11:16,750 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:11:16,753 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 10:12:29,038 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:12:29,042 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:12:29,045 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:12:29,050 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 10:13:13,823 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:13:13,826 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:13:13,832 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:13:13,835 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:14:07,373 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:14:07,375 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:14:07,378 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:14:07,410 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 10:15:01,519 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:15:01,521 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:15:01,523 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:15:01,526 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:15:26,684 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:15:26,690 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:15:26,692 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:15:26,695 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 10:16:24,610 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:16:24,612 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:16:24,625 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:16:24,629 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 10:16:29,029 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:16:29,031 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:16:29,036 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:16:29,039 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 10:17:22,462 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:17:22,464 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:17:22,466 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:17:22,468 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:17:52,637 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:17:52,639 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:17:52,641 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:17:52,644 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 10:21:16,480 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:21:16,482 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:21:16,484 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:21:16,487 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 10:21:59,473 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:21:59,475 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:21:59,477 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:21:59,479 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:22:30,329 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:22:30,331 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-01 10:22:30,333 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 10:22:30,336 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-01 10:43:54,036 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-01 10:59:07,423 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-01 11:27:50,462 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-01 11:30:14,120 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-03 21:56:36,892 [Worker-12: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-03 21:56:43,768 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 21:56:43,779 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 21:56:43,784 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 21:56:43,786 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 21:57:44,359 [Worker-12: Launching RunTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 21:57:44,363 [Worker-12: Launching RunTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 21:57:44,365 [Worker-12: Launching RunTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 21:57:44,370 [Worker-12: Launching RunTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 21:58:20,731 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 21:58:20,734 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 21:58:20,802 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 21:58:20,806 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 21:58:33,618 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 21:58:33,620 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 21:58:33,624 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 21:58:33,627 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:00:11,203 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:00:11,204 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:00:11,207 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:00:11,211 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:00:47,069 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:00:47,071 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:00:47,089 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:00:47,095 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:00:52,121 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:00:52,123 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:00:52,150 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:00:52,160 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:01:58,897 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:01:58,900 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:01:58,907 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:01:58,910 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:03:09,932 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:03:09,935 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:03:09,936 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:03:09,939 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:03:39,157 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:03:39,159 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:03:39,161 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:03:39,165 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:06:01,004 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:06:01,006 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:06:01,008 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:06:01,010 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:06:26,032 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:06:26,034 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:06:26,037 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:06:26,039 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:07:54,399 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:07:54,401 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:07:54,403 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:07:54,405 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:08:19,503 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:08:19,505 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:08:19,507 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:08:19,510 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:10:56,720 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/plugins/nexus-staging-maven-plugin/1.6.8/nexus-staging-maven-plugin-1.6.8.pom
+2022-12-03 22:10:57,215 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/plugins/nexus-staging-maven-plugin/1.6.8/nexus-staging-maven-plugin-1.6.8.pom
+2022-12-03 22:10:57,682 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/maven/nexus-staging/1.6.8/nexus-staging-1.6.8.pom
+2022-12-03 22:10:58,147 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/maven/nexus-staging/1.6.8/nexus-staging-1.6.8.pom
+2022-12-03 22:10:58,573 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/maven/nexus-maven-plugins/1.6.8/nexus-maven-plugins-1.6.8.pom
+2022-12-03 22:10:59,095 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/maven/nexus-maven-plugins/1.6.8/nexus-maven-plugins-1.6.8.pom
+2022-12-03 22:10:59,532 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/buildsupport/public-parent/6/public-parent-6.pom
+2022-12-03 22:11:00,051 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/buildsupport/public-parent/6/public-parent-6.pom
+2022-12-03 22:11:00,494 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/buildsupport/buildsupport/6/buildsupport-6.pom
+2022-12-03 22:11:01,054 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/buildsupport/buildsupport/6/buildsupport-6.pom
+2022-12-03 22:11:01,524 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/maven/nexus-common/1.6.8/nexus-common-1.6.8.pom
+2022-12-03 22:11:02,015 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/maven/nexus-common/1.6.8/nexus-common-1.6.8.pom
+2022-12-03 22:11:02,538 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7.pom
+2022-12-03 22:11:03,014 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7.pom
+2022-12-03 22:11:03,488 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/google/guava/guava/14.0.1/guava-14.0.1.pom
+2022-12-03 22:11:03,940 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/google/guava/guava/14.0.1/guava-14.0.1.pom
+2022-12-03 22:11:04,393 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/google/guava/guava-parent/14.0.1/guava-parent-14.0.1.pom
+2022-12-03 22:11:04,919 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/google/guava/guava-parent/14.0.1/guava-parent-14.0.1.pom
+2022-12-03 22:11:05,348 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/nexus-client-core/2.14.3-02/nexus-client-core-2.14.3-02.pom
+2022-12-03 22:11:05,833 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/nexus-client-core/2.14.3-02/nexus-client-core-2.14.3-02.pom
+2022-12-03 22:11:06,291 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/nexus-components/2.14.3-02/nexus-components-2.14.3-02.pom
+2022-12-03 22:11:06,754 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/nexus-components/2.14.3-02/nexus-components-2.14.3-02.pom
+2022-12-03 22:11:07,210 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/nexus-parent/2.14.3-02/nexus-parent-2.14.3-02.pom
+2022-12-03 22:11:07,728 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/nexus-parent/2.14.3-02/nexus-parent-2.14.3-02.pom
+2022-12-03 22:11:08,169 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/buildsupport/public-parent/9/public-parent-9.pom
+2022-12-03 22:11:08,631 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/buildsupport/public-parent/9/public-parent-9.pom
+2022-12-03 22:11:09,076 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/buildsupport/buildsupport/9/buildsupport-9.pom
+2022-12-03 22:11:09,554 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/buildsupport/buildsupport/9/buildsupport-9.pom
+2022-12-03 22:11:10,000 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-all/2.14.3-02/nexus-buildsupport-all-2.14.3-02.pom
+2022-12-03 22:11:10,474 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-all/2.14.3-02/nexus-buildsupport-all-2.14.3-02.pom
+2022-12-03 22:11:10,922 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport/2.14.3-02/nexus-buildsupport-2.14.3-02.pom
+2022-12-03 22:11:11,380 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport/2.14.3-02/nexus-buildsupport-2.14.3-02.pom
+2022-12-03 22:11:11,815 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-commons/2.14.3-02/nexus-buildsupport-commons-2.14.3-02.pom
+2022-12-03 22:11:12,291 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-commons/2.14.3-02/nexus-buildsupport-commons-2.14.3-02.pom
+2022-12-03 22:11:12,749 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-db/2.14.3-02/nexus-buildsupport-db-2.14.3-02.pom
+2022-12-03 22:11:13,324 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-db/2.14.3-02/nexus-buildsupport-db-2.14.3-02.pom
+2022-12-03 22:11:13,769 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-gwt/2.14.3-02/nexus-buildsupport-gwt-2.14.3-02.pom
+2022-12-03 22:11:14,234 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-gwt/2.14.3-02/nexus-buildsupport-gwt-2.14.3-02.pom
+2022-12-03 22:11:14,679 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-httpclient/2.14.3-02/nexus-buildsupport-httpclient-2.14.3-02.pom
+2022-12-03 22:11:15,192 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-httpclient/2.14.3-02/nexus-buildsupport-httpclient-2.14.3-02.pom
+2022-12-03 22:11:15,665 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-insight/2.14.3-02/nexus-buildsupport-insight-2.14.3-02.pom
+2022-12-03 22:11:16,154 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-insight/2.14.3-02/nexus-buildsupport-insight-2.14.3-02.pom
+2022-12-03 22:11:16,614 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-maven/2.14.3-02/nexus-buildsupport-maven-2.14.3-02.pom
+2022-12-03 22:11:17,073 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-maven/2.14.3-02/nexus-buildsupport-maven-2.14.3-02.pom
+2022-12-03 22:11:17,534 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-messaging/2.14.3-02/nexus-buildsupport-messaging-2.14.3-02.pom
+2022-12-03 22:11:18,004 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-messaging/2.14.3-02/nexus-buildsupport-messaging-2.14.3-02.pom
+2022-12-03 22:11:18,455 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-shiro/2.14.3-02/nexus-buildsupport-shiro-2.14.3-02.pom
+2022-12-03 22:11:18,926 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-shiro/2.14.3-02/nexus-buildsupport-shiro-2.14.3-02.pom
+2022-12-03 22:11:19,479 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-bouncycastle/2.14.3-02/nexus-buildsupport-bouncycastle-2.14.3-02.pom
+2022-12-03 22:11:20,014 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-bouncycastle/2.14.3-02/nexus-buildsupport-bouncycastle-2.14.3-02.pom
+2022-12-03 22:11:20,594 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-jetty/2.14.3-02/nexus-buildsupport-jetty-2.14.3-02.pom
+2022-12-03 22:11:21,134 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-jetty/2.14.3-02/nexus-buildsupport-jetty-2.14.3-02.pom
+2022-12-03 22:11:21,626 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-goodies/2.14.3-02/nexus-buildsupport-goodies-2.14.3-02.pom
+2022-12-03 22:11:22,158 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-goodies/2.14.3-02/nexus-buildsupport-goodies-2.14.3-02.pom
+2022-12-03 22:11:22,605 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-groovy/2.14.3-02/nexus-buildsupport-groovy-2.14.3-02.pom
+2022-12-03 22:11:23,234 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-groovy/2.14.3-02/nexus-buildsupport-groovy-2.14.3-02.pom
+2022-12-03 22:11:23,701 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-guice/2.14.3-02/nexus-buildsupport-guice-2.14.3-02.pom
+2022-12-03 22:11:24,169 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-guice/2.14.3-02/nexus-buildsupport-guice-2.14.3-02.pom
+2022-12-03 22:11:24,608 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-logging/2.14.3-02/nexus-buildsupport-logging-2.14.3-02.pom
+2022-12-03 22:11:25,330 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-logging/2.14.3-02/nexus-buildsupport-logging-2.14.3-02.pom
+2022-12-03 22:11:25,772 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-osgi/2.14.3-02/nexus-buildsupport-osgi-2.14.3-02.pom
+2022-12-03 22:11:26,238 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-osgi/2.14.3-02/nexus-buildsupport-osgi-2.14.3-02.pom
+2022-12-03 22:11:26,728 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-other/2.14.3-02/nexus-buildsupport-other-2.14.3-02.pom
+2022-12-03 22:11:27,191 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-other/2.14.3-02/nexus-buildsupport-other-2.14.3-02.pom
+2022-12-03 22:11:27,634 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-plexus/2.14.3-02/nexus-buildsupport-plexus-2.14.3-02.pom
+2022-12-03 22:11:28,207 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-plexus/2.14.3-02/nexus-buildsupport-plexus-2.14.3-02.pom
+2022-12-03 22:11:28,632 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-rest/2.14.3-02/nexus-buildsupport-rest-2.14.3-02.pom
+2022-12-03 22:11:29,097 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-rest/2.14.3-02/nexus-buildsupport-rest-2.14.3-02.pom
+2022-12-03 22:11:29,522 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-testing/2.14.3-02/nexus-buildsupport-testing-2.14.3-02.pom
+2022-12-03 22:11:30,033 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-testing/2.14.3-02/nexus-buildsupport-testing-2.14.3-02.pom
+2022-12-03 22:11:30,464 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-metrics/2.14.3-02/nexus-buildsupport-metrics-2.14.3-02.pom
+2022-12-03 22:11:30,928 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/buildsupport/nexus-buildsupport-metrics/2.14.3-02/nexus-buildsupport-metrics-2.14.3-02.pom
+2022-12-03 22:11:31,384 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/plugins/nexus-restlet1x-model/2.14.3-02/nexus-restlet1x-model-2.14.3-02.pom
+2022-12-03 22:11:31,883 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/plugins/nexus-restlet1x-model/2.14.3-02/nexus-restlet1x-model-2.14.3-02.pom
+2022-12-03 22:11:32,334 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/plugins/nexus-plugins-restlet1x/2.14.3-02/nexus-plugins-restlet1x-2.14.3-02.pom
+2022-12-03 22:11:32,834 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/plugins/nexus-plugins-restlet1x/2.14.3-02/nexus-plugins-restlet1x-2.14.3-02.pom
+2022-12-03 22:11:33,298 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/plugins/nexus-plugins/2.14.3-02/nexus-plugins-2.14.3-02.pom
+2022-12-03 22:11:33,802 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/plugins/nexus-plugins/2.14.3-02/nexus-plugins-2.14.3-02.pom
+2022-12-03 22:11:34,232 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.pom
+2022-12-03 22:11:34,664 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.pom
+2022-12-03 22:11:35,098 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/apache/maven/maven/3.0.4/maven-3.0.4.pom
+2022-12-03 22:11:35,575 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/apache/maven/maven/3.0.4/maven-3.0.4.pom
+2022-12-03 22:11:36,026 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2022-12-03 22:11:36,476 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2022-12-03 22:11:36,924 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2022-12-03 22:11:37,402 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2022-12-03 22:11:37,888 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/intellij/annotations/9.0.4/annotations-9.0.4.pom
+2022-12-03 22:11:38,450 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/intellij/annotations/9.0.4/annotations-9.0.4.pom
+2022-12-03 22:11:39,004 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7.pom
+2022-12-03 22:11:39,463 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7.pom
+2022-12-03 22:11:39,900 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/thoughtworks/xstream/xstream-parent/1.4.7/xstream-parent-1.4.7.pom
+2022-12-03 22:11:40,382 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/thoughtworks/xstream/xstream-parent/1.4.7/xstream-parent-1.4.7.pom
+2022-12-03 22:11:40,875 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/joda-time/joda-time/2.2/joda-time-2.2.pom
+2022-12-03 22:11:41,344 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/joda-time/joda-time/2.2/joda-time-2.2.pom
+2022-12-03 22:11:41,810 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/commons-lang/commons-lang/2.6/commons-lang-2.6.pom
+2022-12-03 22:11:42,276 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/commons-lang/commons-lang/2.6/commons-lang-2.6.pom
+2022-12-03 22:11:42,788 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/apache/commons/commons-parent/17/commons-parent-17.pom
+2022-12-03 22:11:43,271 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/apache/commons/commons-parent/17/commons-parent-17.pom
+2022-12-03 22:11:43,763 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/commons-beanutils/commons-beanutils-core/1.8.3/commons-beanutils-core-1.8.3.pom
+2022-12-03 22:11:44,243 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/commons-beanutils/commons-beanutils-core/1.8.3/commons-beanutils-core-1.8.3.pom
+2022-12-03 22:11:44,754 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/sisu/siesta/siesta-client/1.7/siesta-client-1.7.pom
+2022-12-03 22:11:45,263 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/sisu/siesta/siesta-client/1.7/siesta-client-1.7.pom
+2022-12-03 22:11:45,742 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/sisu/siesta/siesta/1.7/siesta-1.7.pom
+2022-12-03 22:11:46,227 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/sisu/siesta/siesta/1.7/siesta-1.7.pom
+2022-12-03 22:11:46,668 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/buildsupport/public-parent/5/public-parent-5.pom
+2022-12-03 22:11:47,140 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/buildsupport/public-parent/5/public-parent-5.pom
+2022-12-03 22:11:47,591 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/buildsupport/buildsupport/5/buildsupport-5.pom
+2022-12-03 22:11:48,081 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/buildsupport/buildsupport/5/buildsupport-5.pom
+2022-12-03 22:11:48,540 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/sisu/siesta/siesta-common/1.7/siesta-common-1.7.pom
+2022-12-03 22:11:49,091 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/sisu/siesta/siesta-common/1.7/siesta-common-1.7.pom
+2022-12-03 22:11:49,554 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.pom
+2022-12-03 22:11:50,051 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.pom
+2022-12-03 22:11:50,606 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/sun/jersey/jersey-core/1.17.1/jersey-core-1.17.1.pom
+2022-12-03 22:11:51,171 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/sun/jersey/jersey-core/1.17.1/jersey-core-1.17.1.pom
+2022-12-03 22:11:51,756 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/sun/jersey/jersey-project/1.17.1/jersey-project-1.17.1.pom
+2022-12-03 22:11:52,278 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/sun/jersey/jersey-project/1.17.1/jersey-project-1.17.1.pom
+2022-12-03 22:11:52,734 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/net/java/jvnet-parent/1/jvnet-parent-1.pom
+2022-12-03 22:11:53,161 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/net/java/jvnet-parent/1/jvnet-parent-1.pom
+2022-12-03 22:11:53,591 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/sun/jersey/jersey-client/1.17.1/jersey-client-1.17.1.pom
+2022-12-03 22:11:54,041 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/sun/jersey/jersey-client/1.17.1/jersey-client-1.17.1.pom
+2022-12-03 22:11:54,486 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/sun/jersey/contribs/jersey-apache-client4/1.17.1/jersey-apache-client4-1.17.1.pom
+2022-12-03 22:11:54,913 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/sun/jersey/contribs/jersey-apache-client4/1.17.1/jersey-apache-client4-1.17.1.pom
+2022-12-03 22:11:55,357 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/sun/jersey/contribs/jersey-contribs/1.17.1/jersey-contribs-1.17.1.pom
+2022-12-03 22:11:55,796 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/sun/jersey/contribs/jersey-contribs/1.17.1/jersey-contribs-1.17.1.pom
+2022-12-03 22:11:56,218 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/apache/httpcomponents/httpclient/4.3.5/httpclient-4.3.5.pom
+2022-12-03 22:11:56,714 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/apache/httpcomponents/httpclient/4.3.5/httpclient-4.3.5.pom
+2022-12-03 22:11:57,153 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/apache/httpcomponents/httpcomponents-client/4.3.5/httpcomponents-client-4.3.5.pom
+2022-12-03 22:11:57,615 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/apache/httpcomponents/httpcomponents-client/4.3.5/httpcomponents-client-4.3.5.pom
+2022-12-03 22:11:58,063 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.pom
+2022-12-03 22:11:58,540 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.pom
+2022-12-03 22:11:59,004 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.pom
+2022-12-03 22:11:59,473 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.pom
+2022-12-03 22:12:00,119 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/slf4j/jcl-over-slf4j/1.7.7/jcl-over-slf4j-1.7.7.pom
+2022-12-03 22:12:00,633 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/slf4j/jcl-over-slf4j/1.7.7/jcl-over-slf4j-1.7.7.pom
+2022-12-03 22:12:01,082 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/sisu/siesta/siesta-jackson/1.7/siesta-jackson-1.7.pom
+2022-12-03 22:12:01,640 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/sisu/siesta/siesta-jackson/1.7/siesta-jackson-1.7.pom
+2022-12-03 22:12:02,116 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/core/jackson-annotations/2.3.1/jackson-annotations-2.3.1.pom
+2022-12-03 22:12:02,696 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/core/jackson-annotations/2.3.1/jackson-annotations-2.3.1.pom
+2022-12-03 22:12:03,260 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/fasterxml/oss-parent/11/oss-parent-11.pom
+2022-12-03 22:12:03,928 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/fasterxml/oss-parent/11/oss-parent-11.pom
+2022-12-03 22:12:04,404 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/core/jackson-core/2.3.1/jackson-core-2.3.1.pom
+2022-12-03 22:12:04,894 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/core/jackson-core/2.3.1/jackson-core-2.3.1.pom
+2022-12-03 22:12:05,371 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/fasterxml/oss-parent/12/oss-parent-12.pom
+2022-12-03 22:12:05,955 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/fasterxml/oss-parent/12/oss-parent-12.pom
+2022-12-03 22:12:06,434 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/core/jackson-databind/2.3.1/jackson-databind-2.3.1.pom
+2022-12-03 22:12:06,892 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/core/jackson-databind/2.3.1/jackson-databind-2.3.1.pom
+2022-12-03 22:12:07,363 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.pom
+2022-12-03 22:12:07,889 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.pom
+2022-12-03 22:12:08,344 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.3.1/jackson-jaxrs-json-provider-2.3.1.pom
+2022-12-03 22:12:08,910 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.3.1/jackson-jaxrs-json-provider-2.3.1.pom
+2022-12-03 22:12:09,556 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.3.1/jackson-jaxrs-providers-2.3.1.pom
+2022-12-03 22:12:10,078 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.3.1/jackson-jaxrs-providers-2.3.1.pom
+2022-12-03 22:12:10,647 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.3.1/jackson-jaxrs-base-2.3.1.pom
+2022-12-03 22:12:11,151 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.3.1/jackson-jaxrs-base-2.3.1.pom
+2022-12-03 22:12:11,679 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.3.1/jackson-module-jaxb-annotations-2.3.1.pom
+2022-12-03 22:12:12,245 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.3.1/jackson-module-jaxb-annotations-2.3.1.pom
+2022-12-03 22:12:13,022 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/spice/zapper/spice-zapper/1.3/spice-zapper-1.3.pom
+2022-12-03 22:12:13,595 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/spice/zapper/spice-zapper/1.3/spice-zapper-1.3.pom
+2022-12-03 22:12:14,078 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/fusesource/hawtbuf/hawtbuf-proto/1.9/hawtbuf-proto-1.9.pom
+2022-12-03 22:12:14,568 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/fusesource/hawtbuf/hawtbuf-proto/1.9/hawtbuf-proto-1.9.pom
+2022-12-03 22:12:15,024 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/fusesource/hawtbuf/hawtbuf-project/1.9/hawtbuf-project-1.9.pom
+2022-12-03 22:12:15,509 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/fusesource/hawtbuf/hawtbuf-project/1.9/hawtbuf-project-1.9.pom
+2022-12-03 22:12:15,964 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/fusesource/fusesource-pom/1.9/fusesource-pom-1.9.pom
+2022-12-03 22:12:16,473 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/fusesource/fusesource-pom/1.9/fusesource-pom-1.9.pom
+2022-12-03 22:12:17,072 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/fusesource/hawtbuf/hawtbuf/1.9/hawtbuf-1.9.pom
+2022-12-03 22:12:17,645 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/fusesource/hawtbuf/hawtbuf/1.9/hawtbuf-1.9.pom
+2022-12-03 22:12:18,215 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/aether/aether-api/1.13.1/aether-api-1.13.1.pom
+2022-12-03 22:12:18,696 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/aether/aether-api/1.13.1/aether-api-1.13.1.pom
+2022-12-03 22:12:19,153 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/aether/aether/1.13.1/aether-1.13.1.pom
+2022-12-03 22:12:19,627 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/aether/aether/1.13.1/aether-1.13.1.pom
+2022-12-03 22:12:20,080 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.pom
+2022-12-03 22:12:20,556 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.pom
+2022-12-03 22:12:21,002 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/ch/qos/logback/logback-parent/1.1.2/logback-parent-1.1.2.pom
+2022-12-03 22:12:21,515 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/ch/qos/logback/logback-parent/1.1.2/logback-parent-1.1.2.pom
+2022-12-03 22:12:21,955 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.pom
+2022-12-03 22:12:22,509 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.pom
+2022-12-03 22:12:23,189 [AetherRepositoryConnector-oss.sonatype.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/maven/nexus-common/1.6.8/nexus-common-1.6.8.jar
+2022-12-03 22:12:23,361 [AetherRepositoryConnector-oss.sonatype.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/plugins/nexus-staging-maven-plugin/1.6.8/nexus-staging-maven-plugin-1.6.8.jar
+2022-12-03 22:12:23,822 [AetherRepositoryConnector-oss.sonatype.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/google/guava/guava/14.0.1/guava-14.0.1.jar
+2022-12-03 22:12:23,822 [AetherRepositoryConnector-oss.sonatype.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7.jar
+2022-12-03 22:12:23,822 [AetherRepositoryConnector-oss.sonatype.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/nexus-client-core/2.14.3-02/nexus-client-core-2.14.3-02.jar
+2022-12-03 22:12:24,647 [AetherRepositoryConnector-oss.sonatype.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/maven/nexus-common/1.6.8/nexus-common-1.6.8.jar
+2022-12-03 22:12:25,404 [AetherRepositoryConnector-oss.sonatype.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/plugins/nexus-staging-maven-plugin/1.6.8/nexus-staging-maven-plugin-1.6.8.jar
+2022-12-03 22:12:25,482 [AetherRepositoryConnector-oss.sonatype.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7.jar
+2022-12-03 22:12:25,792 [AetherRepositoryConnector-oss.sonatype.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/nexus-client-core/2.14.3-02/nexus-client-core-2.14.3-02.jar
+2022-12-03 22:12:25,957 [AetherRepositoryConnector-oss.sonatype.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/plugins/nexus-restlet1x-model/2.14.3-02/nexus-restlet1x-model-2.14.3-02.jar
+2022-12-03 22:12:26,558 [AetherRepositoryConnector-oss.sonatype.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2022-12-03 22:12:26,574 [AetherRepositoryConnector-oss.sonatype.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.jar
+2022-12-03 22:12:26,736 [AetherRepositoryConnector-oss.sonatype.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/intellij/annotations/9.0.4/annotations-9.0.4.jar
+2022-12-03 22:12:26,873 [AetherRepositoryConnector-oss.sonatype.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/nexus/plugins/nexus-restlet1x-model/2.14.3-02/nexus-restlet1x-model-2.14.3-02.jar
+2022-12-03 22:12:27,061 [AetherRepositoryConnector-oss.sonatype.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/google/guava/guava/14.0.1/guava-14.0.1.jar
+2022-12-03 22:12:27,279 [AetherRepositoryConnector-oss.sonatype.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.jar
+2022-12-03 22:12:27,410 [AetherRepositoryConnector-oss.sonatype.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/intellij/annotations/9.0.4/annotations-9.0.4.jar
+2022-12-03 22:12:27,415 [AetherRepositoryConnector-oss.sonatype.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2022-12-03 22:12:27,524 [AetherRepositoryConnector-oss.sonatype.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7.jar
+2022-12-03 22:12:27,709 [AetherRepositoryConnector-oss.sonatype.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/joda-time/joda-time/2.2/joda-time-2.2.jar
+2022-12-03 22:12:27,909 [AetherRepositoryConnector-oss.sonatype.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/commons-lang/commons-lang/2.6/commons-lang-2.6.jar
+2022-12-03 22:12:28,002 [AetherRepositoryConnector-oss.sonatype.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/commons-beanutils/commons-beanutils-core/1.8.3/commons-beanutils-core-1.8.3.jar
+2022-12-03 22:12:28,056 [AetherRepositoryConnector-oss.sonatype.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/sisu/siesta/siesta-client/1.7/siesta-client-1.7.jar
+2022-12-03 22:12:28,213 [AetherRepositoryConnector-oss.sonatype.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/thoughtworks/xstream/xstream/1.4.7/xstream-1.4.7.jar
+2022-12-03 22:12:28,604 [AetherRepositoryConnector-oss.sonatype.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/joda-time/joda-time/2.2/joda-time-2.2.jar
+2022-12-03 22:12:28,751 [AetherRepositoryConnector-oss.sonatype.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/commons-lang/commons-lang/2.6/commons-lang-2.6.jar
+2022-12-03 22:12:28,772 [AetherRepositoryConnector-oss.sonatype.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/sisu/siesta/siesta-common/1.7/siesta-common-1.7.jar
+2022-12-03 22:12:28,779 [AetherRepositoryConnector-oss.sonatype.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/commons-beanutils/commons-beanutils-core/1.8.3/commons-beanutils-core-1.8.3.jar
+2022-12-03 22:12:28,872 [AetherRepositoryConnector-oss.sonatype.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/sisu/siesta/siesta-client/1.7/siesta-client-1.7.jar
+2022-12-03 22:12:29,163 [AetherRepositoryConnector-oss.sonatype.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar
+2022-12-03 22:12:29,292 [AetherRepositoryConnector-oss.sonatype.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/sun/jersey/jersey-core/1.17.1/jersey-core-1.17.1.jar
+2022-12-03 22:12:29,449 [AetherRepositoryConnector-oss.sonatype.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/sun/jersey/contribs/jersey-apache-client4/1.17.1/jersey-apache-client4-1.17.1.jar
+2022-12-03 22:12:29,451 [AetherRepositoryConnector-oss.sonatype.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/sun/jersey/jersey-client/1.17.1/jersey-client-1.17.1.jar
+2022-12-03 22:12:29,486 [AetherRepositoryConnector-oss.sonatype.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/sisu/siesta/siesta-common/1.7/siesta-common-1.7.jar
+2022-12-03 22:12:30,110 [AetherRepositoryConnector-oss.sonatype.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/sun/jersey/jersey-core/1.17.1/jersey-core-1.17.1.jar
+2022-12-03 22:12:30,118 [AetherRepositoryConnector-oss.sonatype.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar
+2022-12-03 22:12:30,299 [AetherRepositoryConnector-oss.sonatype.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/sisu/siesta/siesta-jackson/1.7/siesta-jackson-1.7.jar
+2022-12-03 22:12:30,306 [AetherRepositoryConnector-oss.sonatype.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/sun/jersey/jersey-client/1.17.1/jersey-client-1.17.1.jar
+2022-12-03 22:12:30,316 [AetherRepositoryConnector-oss.sonatype.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/sun/jersey/contribs/jersey-apache-client4/1.17.1/jersey-apache-client4-1.17.1.jar
+2022-12-03 22:12:30,883 [AetherRepositoryConnector-oss.sonatype.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/core/jackson-annotations/2.3.1/jackson-annotations-2.3.1.jar
+2022-12-03 22:12:31,042 [AetherRepositoryConnector-oss.sonatype.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/core/jackson-core/2.3.1/jackson-core-2.3.1.jar
+2022-12-03 22:12:31,198 [AetherRepositoryConnector-oss.sonatype.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/core/jackson-databind/2.3.1/jackson-databind-2.3.1.jar
+2022-12-03 22:12:31,199 [AetherRepositoryConnector-oss.sonatype.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.3.1/jackson-jaxrs-json-provider-2.3.1.jar
+2022-12-03 22:12:31,207 [AetherRepositoryConnector-oss.sonatype.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/sisu/siesta/siesta-jackson/1.7/siesta-jackson-1.7.jar
+2022-12-03 22:12:31,755 [AetherRepositoryConnector-oss.sonatype.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/core/jackson-core/2.3.1/jackson-core-2.3.1.jar
+2022-12-03 22:12:31,867 [AetherRepositoryConnector-oss.sonatype.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.3.1/jackson-jaxrs-base-2.3.1.jar
+2022-12-03 22:12:32,007 [AetherRepositoryConnector-oss.sonatype.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.3.1/jackson-jaxrs-json-provider-2.3.1.jar
+2022-12-03 22:12:32,024 [AetherRepositoryConnector-oss.sonatype.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/core/jackson-annotations/2.3.1/jackson-annotations-2.3.1.jar
+2022-12-03 22:12:32,160 [AetherRepositoryConnector-oss.sonatype.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/core/jackson-databind/2.3.1/jackson-databind-2.3.1.jar
+2022-12-03 22:12:32,261 [AetherRepositoryConnector-oss.sonatype.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.3.1/jackson-module-jaxb-annotations-2.3.1.jar
+2022-12-03 22:12:32,687 [AetherRepositoryConnector-oss.sonatype.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/apache/httpcomponents/httpclient/4.3.5/httpclient-4.3.5.jar
+2022-12-03 22:12:32,705 [AetherRepositoryConnector-oss.sonatype.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+2022-12-03 22:12:32,912 [AetherRepositoryConnector-oss.sonatype.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/slf4j/jcl-over-slf4j/1.7.7/jcl-over-slf4j-1.7.7.jar
+2022-12-03 22:12:32,915 [AetherRepositoryConnector-oss.sonatype.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.3.1/jackson-jaxrs-base-2.3.1.jar
+2022-12-03 22:12:33,053 [AetherRepositoryConnector-oss.sonatype.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.3.1/jackson-module-jaxb-annotations-2.3.1.jar
+2022-12-03 22:12:33,486 [AetherRepositoryConnector-oss.sonatype.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/spice/zapper/spice-zapper/1.3/spice-zapper-1.3.jar
+2022-12-03 22:12:33,508 [AetherRepositoryConnector-oss.sonatype.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+2022-12-03 22:12:33,758 [AetherRepositoryConnector-oss.sonatype.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/apache/httpcomponents/httpclient/4.3.5/httpclient-4.3.5.jar
+2022-12-03 22:12:33,760 [AetherRepositoryConnector-oss.sonatype.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/fusesource/hawtbuf/hawtbuf-proto/1.9/hawtbuf-proto-1.9.jar
+2022-12-03 22:12:33,760 [AetherRepositoryConnector-oss.sonatype.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/slf4j/jcl-over-slf4j/1.7.7/jcl-over-slf4j-1.7.7.jar
+2022-12-03 22:12:34,109 [AetherRepositoryConnector-oss.sonatype.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/fusesource/hawtbuf/hawtbuf/1.9/hawtbuf-1.9.jar
+2022-12-03 22:12:34,242 [AetherRepositoryConnector-oss.sonatype.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/spice/zapper/spice-zapper/1.3/spice-zapper-1.3.jar
+2022-12-03 22:12:34,353 [AetherRepositoryConnector-oss.sonatype.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/org/sonatype/aether/aether-api/1.13.1/aether-api-1.13.1.jar
+2022-12-03 22:12:34,354 [AetherRepositoryConnector-oss.sonatype.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar
+2022-12-03 22:12:34,644 [AetherRepositoryConnector-oss.sonatype.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/fusesource/hawtbuf/hawtbuf/1.9/hawtbuf-1.9.jar
+2022-12-03 22:12:34,769 [AetherRepositoryConnector-oss.sonatype.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://oss.sonatype.org/content/repositories/releases/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar
+2022-12-03 22:12:34,930 [AetherRepositoryConnector-oss.sonatype.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/fusesource/hawtbuf/hawtbuf-proto/1.9/hawtbuf-proto-1.9.jar
+2022-12-03 22:12:35,108 [AetherRepositoryConnector-oss.sonatype.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/org/sonatype/aether/aether-api/1.13.1/aether-api-1.13.1.jar
+2022-12-03 22:12:35,259 [AetherRepositoryConnector-oss.sonatype.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar
+2022-12-03 22:12:35,453 [AetherRepositoryConnector-oss.sonatype.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/releases/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar
+2022-12-03 22:12:53,638 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SOC:ProjetoAnalistaTeste:0.0.1-SNAPSHOT @ C:\Users\Caio\eclipse-workspace-SOC\ProjetoAnalistaTeste\pom.xml.
+2022-12-03 22:12:54,893 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/7.9.0/cucumber-java-7.9.0.pom
+2022-12-03 22:12:55,232 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/7.9.0/cucumber-java-7.9.0.pom
+2022-12-03 22:12:55,370 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-jvm/7.9.0/cucumber-jvm-7.9.0.pom
+2022-12-03 22:12:55,623 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-jvm/7.9.0/cucumber-jvm-7.9.0.pom
+2022-12-03 22:12:55,772 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-parent/3.0.0/cucumber-parent-3.0.0.pom
+2022-12-03 22:12:56,008 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-parent/3.0.0/cucumber-parent-3.0.0.pom
+2022-12-03 22:12:56,176 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-bom/7.9.0/cucumber-bom-7.9.0.pom
+2022-12-03 22:12:56,372 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-bom/7.9.0/cucumber-bom-7.9.0.pom
+2022-12-03 22:12:56,514 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.9.1/junit-bom-5.9.1.pom
+2022-12-03 22:12:56,692 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.9.1/junit-bom-5.9.1.pom
+2022-12-03 22:12:56,846 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.13.4.20221013/jackson-bom-2.13.4.20221013.pom
+2022-12-03 22:12:57,035 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.13.4.20221013/jackson-bom-2.13.4.20221013.pom
+2022-12-03 22:12:57,178 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-core/7.9.0/cucumber-core-7.9.0.pom
+2022-12-03 22:12:57,383 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-core/7.9.0/cucumber-core-7.9.0.pom
+2022-12-03 22:12:57,522 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin/7.9.0/cucumber-gherkin-7.9.0.pom
+2022-12-03 22:12:57,695 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin/7.9.0/cucumber-gherkin-7.9.0.pom
+2022-12-03 22:12:57,834 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-plugin/7.9.0/cucumber-plugin-7.9.0.pom
+2022-12-03 22:12:58,016 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-plugin/7.9.0/cucumber-plugin-7.9.0.pom
+2022-12-03 22:12:58,170 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin-messages/7.9.0/cucumber-gherkin-messages-7.9.0.pom
+2022-12-03 22:12:58,334 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin-messages/7.9.0/cucumber-gherkin-messages-7.9.0.pom
+2022-12-03 22:12:58,475 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/gherkin/24.1.0/gherkin-24.1.0.pom
+2022-12-03 22:12:58,664 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/gherkin/24.1.0/gherkin-24.1.0.pom
+2022-12-03 22:12:58,806 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.13.4/jackson-bom-2.13.4.pom
+2022-12-03 22:12:59,003 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.13.4/jackson-bom-2.13.4.pom
+2022-12-03 22:12:59,194 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/messages/19.1.4/messages-19.1.4.pom
+2022-12-03 22:12:59,410 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/messages/19.1.4/messages-19.1.4.pom
+2022-12-03 22:12:59,598 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-expressions/16.0.0/cucumber-expressions-16.0.0.pom
+2022-12-03 22:12:59,776 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-expressions/16.0.0/cucumber-expressions-16.0.0.pom
+2022-12-03 22:12:59,919 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.13.3/jackson-bom-2.13.3.pom
+2022-12-03 22:13:00,114 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.13.3/jackson-bom-2.13.3.pom
+2022-12-03 22:13:00,264 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/datatable/7.9.0/datatable-7.9.0.pom
+2022-12-03 22:13:00,553 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/datatable/7.9.0/datatable-7.9.0.pom
+2022-12-03 22:13:00,722 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/docstring/7.9.0/docstring-7.9.0.pom
+2022-12-03 22:13:00,995 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/docstring/7.9.0/docstring-7.9.0.pom
+2022-12-03 22:13:01,640 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/html-formatter/20.1.0/html-formatter-20.1.0.pom
+2022-12-03 22:13:01,977 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/html-formatter/20.1.0/html-formatter-20.1.0.pom
+2022-12-03 22:13:02,166 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.9.0/junit-bom-5.9.0.pom
+2022-12-03 22:13:02,479 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.9.0/junit-bom-5.9.0.pom
+2022-12-03 22:13:02,660 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/messages/19.0.0/messages-19.0.0.pom
+2022-12-03 22:13:02,925 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/messages/19.0.0/messages-19.0.0.pom
+2022-12-03 22:13:03,080 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/messages/19.1.0/messages-19.1.0.pom
+2022-12-03 22:13:03,744 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/messages/19.1.0/messages-19.1.0.pom
+2022-12-03 22:13:04,815 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/messages/19.1.1/messages-19.1.1.pom
+2022-12-03 22:13:05,256 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/messages/19.1.1/messages-19.1.1.pom
+2022-12-03 22:13:05,562 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/messages/19.1.2/messages-19.1.2.pom
+2022-12-03 22:13:05,828 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/messages/19.1.2/messages-19.1.2.pom
+2022-12-03 22:13:06,099 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/messages/19.1.3/messages-19.1.3.pom
+2022-12-03 22:13:07,616 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/messages/19.1.3/messages-19.1.3.pom
+2022-12-03 22:13:07,793 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/ci-environment/9.1.0/ci-environment-9.1.0.pom
+2022-12-03 22:13:08,356 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/ci-environment/9.1.0/ci-environment-9.1.0.pom
+2022-12-03 22:13:08,605 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/7.9.0/cucumber-junit-7.9.0.pom
+2022-12-03 22:13:08,855 [Worker-7: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/7.9.0/cucumber-junit-7.9.0.pom
+2022-12-03 22:13:16,120 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/7.9.0/cucumber-java-7.9.0.jar
+2022-12-03 22:13:16,403 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin/7.9.0/cucumber-gherkin-7.9.0.jar
+2022-12-03 22:13:16,432 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin-messages/7.9.0/cucumber-gherkin-messages-7.9.0.jar
+2022-12-03 22:13:16,439 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/gherkin/24.1.0/gherkin-24.1.0.jar
+2022-12-03 22:13:16,441 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-core/7.9.0/cucumber-core-7.9.0.jar
+2022-12-03 22:13:17,004 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/gherkin/24.1.0/gherkin-24.1.0.jar
+2022-12-03 22:13:17,214 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/messages/19.1.4/messages-19.1.4.jar
+2022-12-03 22:13:18,300 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin/7.9.0/cucumber-gherkin-7.9.0.jar
+2022-12-03 22:13:18,368 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/messages/19.1.4/messages-19.1.4.jar
+2022-12-03 22:13:18,374 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin-messages/7.9.0/cucumber-gherkin-messages-7.9.0.jar
+2022-12-03 22:13:18,390 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/7.9.0/cucumber-java-7.9.0.jar
+2022-12-03 22:13:18,405 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-core/7.9.0/cucumber-core-7.9.0.jar
+2022-12-03 22:13:18,495 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-expressions/16.0.0/cucumber-expressions-16.0.0.jar
+2022-12-03 22:13:18,548 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/datatable/7.9.0/datatable-7.9.0.jar
+2022-12-03 22:13:18,587 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-plugin/7.9.0/cucumber-plugin-7.9.0.jar
+2022-12-03 22:13:18,595 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/docstring/7.9.0/docstring-7.9.0.jar
+2022-12-03 22:13:18,645 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/html-formatter/20.1.0/html-formatter-20.1.0.jar
+2022-12-03 22:13:18,749 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-expressions/16.0.0/cucumber-expressions-16.0.0.jar
+2022-12-03 22:13:18,803 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/datatable/7.9.0/datatable-7.9.0.jar
+2022-12-03 22:13:18,934 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/ci-environment/9.1.0/ci-environment-9.1.0.jar
+2022-12-03 22:13:19,028 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/docstring/7.9.0/docstring-7.9.0.jar
+2022-12-03 22:13:19,103 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/7.9.0/cucumber-junit-7.9.0.jar
+2022-12-03 22:13:19,426 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/html-formatter/20.1.0/html-formatter-20.1.0.jar
+2022-12-03 22:13:19,614 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-plugin/7.9.0/cucumber-plugin-7.9.0.jar
+2022-12-03 22:13:19,718 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/ci-environment/9.1.0/ci-environment-9.1.0.jar
+2022-12-03 22:13:19,721 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/7.9.0/cucumber-junit-7.9.0.jar
+2022-12-03 22:13:37,602 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:13:37,605 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:13:37,608 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:13:37,610 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:13:38,098 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/7.9.0/cucumber-java-7.9.0-sources.jar
+2022-12-03 22:13:40,818 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/7.9.0/cucumber-java-7.9.0-sources.jar
+2022-12-03 22:13:41,044 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-java:7.9.0
+2022-12-03 22:13:41,197 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:13:41,199 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:13:41,202 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:13:41,204 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:13:41,597 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-core/7.9.0/cucumber-core-7.9.0-sources.jar
+2022-12-03 22:13:42,210 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-core/7.9.0/cucumber-core-7.9.0-sources.jar
+2022-12-03 22:13:42,528 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-core:7.9.0
+2022-12-03 22:13:43,072 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin/7.9.0/cucumber-gherkin-7.9.0-sources.jar
+2022-12-03 22:13:43,386 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin/7.9.0/cucumber-gherkin-7.9.0-sources.jar
+2022-12-03 22:13:43,693 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-gherkin:7.9.0
+2022-12-03 22:13:44,248 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin-messages/7.9.0/cucumber-gherkin-messages-7.9.0-sources.jar
+2022-12-03 22:13:44,664 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin-messages/7.9.0/cucumber-gherkin-messages-7.9.0-sources.jar
+2022-12-03 22:13:45,232 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-gherkin-messages:7.9.0
+2022-12-03 22:13:45,816 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/gherkin/24.1.0/gherkin-24.1.0-sources.jar
+2022-12-03 22:13:46,441 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/gherkin/24.1.0/gherkin-24.1.0-sources.jar
+2022-12-03 22:13:47,079 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:gherkin:24.1.0
+2022-12-03 22:13:47,641 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/messages/19.1.4/messages-19.1.4-sources.jar
+2022-12-03 22:13:47,954 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/messages/19.1.4/messages-19.1.4-sources.jar
+2022-12-03 22:13:48,132 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:messages:19.1.4
+2022-12-03 22:13:48,747 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-expressions/16.0.0/cucumber-expressions-16.0.0-sources.jar
+2022-12-03 22:13:49,326 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-expressions/16.0.0/cucumber-expressions-16.0.0-sources.jar
+2022-12-03 22:13:49,868 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-expressions:16.0.0
+2022-12-03 22:13:50,422 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/datatable/7.9.0/datatable-7.9.0-sources.jar
+2022-12-03 22:13:50,922 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/datatable/7.9.0/datatable-7.9.0-sources.jar
+2022-12-03 22:13:51,446 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:datatable:7.9.0
+2022-12-03 22:13:52,063 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-plugin/7.9.0/cucumber-plugin-7.9.0-sources.jar
+2022-12-03 22:13:52,669 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-plugin/7.9.0/cucumber-plugin-7.9.0-sources.jar
+2022-12-03 22:13:53,450 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-plugin:7.9.0
+2022-12-03 22:13:54,031 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/docstring/7.9.0/docstring-7.9.0-sources.jar
+2022-12-03 22:13:54,483 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/docstring/7.9.0/docstring-7.9.0-sources.jar
+2022-12-03 22:13:56,163 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:docstring:7.9.0
+2022-12-03 22:13:56,753 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/html-formatter/20.1.0/html-formatter-20.1.0-sources.jar
+2022-12-03 22:13:57,089 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/html-formatter/20.1.0/html-formatter-20.1.0-sources.jar
+2022-12-03 22:13:57,271 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:html-formatter:20.1.0
+2022-12-03 22:13:57,834 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/ci-environment/9.1.0/ci-environment-9.1.0-sources.jar
+2022-12-03 22:13:58,122 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/ci-environment/9.1.0/ci-environment-9.1.0-sources.jar
+2022-12-03 22:13:58,214 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:ci-environment:9.1.0
+2022-12-03 22:13:58,883 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/7.9.0/cucumber-junit-7.9.0-sources.jar
+2022-12-03 22:13:59,150 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/7.9.0/cucumber-junit-7.9.0-sources.jar
+2022-12-03 22:13:59,331 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-junit:7.9.0
+2022-12-03 22:13:59,774 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:13:59,777 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:13:59,781 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:13:59,799 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:17:06,185 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:17:06,187 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:17:06,188 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:17:06,201 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:17:19,236 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:17:19,238 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:17:19,240 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:17:19,242 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:17:32,420 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:17:32,421 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:17:32,422 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:17:32,424 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:17:42,148 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:17:42,150 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:17:42,152 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:17:42,155 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:20:41,016 [Worker-16: Rebuilding] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:20:41,018 [Worker-16: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:20:41,022 [Worker-16: Rebuilding] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:20:41,023 [Worker-16: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:20:43,897 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:20:43,899 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:20:43,901 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:20:43,903 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:21:16,014 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-03 22:21:44,743 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:21:44,762 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:21:44,767 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:21:44,770 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:21:49,551 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:21:49,554 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:21:49,586 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:21:49,594 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:22:00,883 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:22:00,885 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:22:00,890 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:22:00,891 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:23:18,992 [Worker-1: Rebuilding] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:23:18,994 [Worker-1: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:23:18,996 [Worker-1: Rebuilding] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:23:18,998 [Worker-1: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:23:36,237 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-03 22:23:49,340 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:23:49,354 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:23:49,360 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:23:49,362 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:26:36,094 [Worker-14: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-03 22:27:11,546 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SOC:ProjetoAnalistaTeste:0.0.1-SNAPSHOT @ C:\Users\Caio\eclipse-workspace-SOC\ProjetoAnalistaTeste\pom.xml.
+2022-12-03 22:27:13,839 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:27:13,847 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:27:13,851 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:27:13,853 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:27:15,989 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:27:15,993 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:27:15,995 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:27:16,000 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:28:02,423 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:28:02,425 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:28:02,459 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:28:02,462 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:28:36,761 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:28:36,770 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:28:36,773 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:28:36,775 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:29:14,596 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:29:14,598 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:29:14,600 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:29:14,604 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:30:09,184 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:30:09,186 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:30:09,188 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:30:09,205 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:31:05,965 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:31:05,966 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:31:05,969 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:31:05,971 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:31:11,519 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:31:11,520 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:31:11,524 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:31:11,527 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:31:58,422 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:31:58,423 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:31:58,427 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:31:58,429 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:36:26,755 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:36:26,757 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:36:26,759 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:36:26,762 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:36:34,350 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:36:34,352 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:36:34,354 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:36:34,356 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:36:42,634 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:36:42,636 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:36:42,638 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:36:42,640 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:37:52,870 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:37:52,871 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:37:52,873 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:37:52,876 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:37:57,984 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:37:57,986 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:37:57,988 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:37:57,991 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:39:02,947 [Worker-18: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-12-03 22:39:02,952 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:39:02,954 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:39:02,956 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:39:02,959 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:39:10,362 [Worker-17: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-12-03 22:39:10,367 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:39:10,369 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:39:10,373 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:39:10,375 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:40:10,713 [Worker-19: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-12-03 22:40:10,716 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:40:10,717 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:40:10,719 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:40:10,721 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:40:48,272 [Worker-18: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-12-03 22:40:48,276 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:40:48,277 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:40:48,279 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:40:48,281 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:43:11,238 [Worker-19: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-12-03 22:43:11,241 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:43:11,244 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:43:11,246 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:43:11,249 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-03 22:44:44,619 [Worker-18: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-12-03 22:44:44,622 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:44:44,624 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-03 22:44:44,626 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-03 22:44:44,629 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-04 16:41:27,521 [Worker-25: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-12-04 16:41:27,529 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-04 16:41:27,531 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-04 16:41:27,533 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-04 16:41:27,536 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-04 16:45:38,967 [Worker-26: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-12-04 16:45:38,970 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-04 16:45:38,974 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-04 16:45:38,976 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-04 16:45:38,979 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-04 16:52:11,209 [Worker-27: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-12-04 16:52:11,219 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-04 16:52:11,221 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-04 16:52:11,224 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-04 16:52:11,227 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-04 20:45:47,625 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-04 20:46:50,224 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-04 20:46:50,230 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-04 20:46:50,234 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-04 20:46:50,236 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-04 20:46:56,417 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-04 20:46:56,420 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-04 20:46:56,422 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-04 20:46:56,424 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:34:23,967 [Worker-12: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-05 22:34:29,027 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:34:29,038 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:34:29,042 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:34:29,044 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:36:18,937 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:36:18,940 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:36:18,943 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:36:18,947 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:36:27,686 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:36:27,690 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:36:27,692 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:36:27,706 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:36:34,923 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:36:34,926 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:36:34,978 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:36:34,983 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:38:03,137 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:38:03,139 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:38:03,141 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:38:03,144 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:38:38,571 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:38:38,573 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:38:38,575 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:38:38,578 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:39:32,228 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:39:32,230 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:39:32,232 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:39:32,235 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:40:18,871 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:40:18,873 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:40:18,877 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:40:18,880 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:40:55,991 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:40:55,992 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:40:56,004 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:40:56,009 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:41:07,963 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:41:07,966 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:41:07,968 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:41:07,971 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:41:34,375 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:41:34,377 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:41:34,379 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:41:34,407 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:41:40,940 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:41:40,941 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:41:40,944 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:41:40,946 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:42:18,172 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:42:18,174 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:42:18,176 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:42:18,178 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:45:15,790 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:45:15,792 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:45:15,794 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:45:15,797 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:46:12,114 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:46:12,115 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:46:12,117 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:46:12,120 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:46:23,092 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:46:23,094 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:46:23,100 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:46:23,121 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:51:19,736 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-05 22:51:55,761 [Worker-12: Launching RunTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:51:55,770 [Worker-12: Launching RunTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:51:55,774 [Worker-12: Launching RunTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:51:55,777 [Worker-12: Launching RunTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:52:49,787 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:52:49,791 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:52:49,793 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:52:49,798 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:54:50,849 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:54:50,851 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:54:50,854 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:54:50,857 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:55:20,365 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:55:20,390 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:55:20,394 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:55:20,398 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:55:29,868 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:55:29,879 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:55:29,910 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:55:29,914 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:55:49,194 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:55:49,196 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:55:49,199 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:55:49,202 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:55:54,898 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:55:54,900 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:55:54,903 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:55:54,905 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:56:01,849 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:56:01,855 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:56:01,859 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:56:01,862 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:56:13,595 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:56:13,597 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:56:13,600 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:56:13,608 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-05 22:57:47,075 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:57:47,113 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-05 22:57:47,119 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-05 22:57:47,123 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-06 07:42:58,008 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-06 07:43:20,177 [Worker-1: Launching RunTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-06 07:43:20,234 [Worker-1: Launching RunTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-06 07:43:20,238 [Worker-1: Launching RunTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-06 07:43:20,239 [Worker-1: Launching RunTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-06 11:40:31,270 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-06 14:34:53,434 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-06 20:53:38,912 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-06 22:20:37,006 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-06 23:44:05,050 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

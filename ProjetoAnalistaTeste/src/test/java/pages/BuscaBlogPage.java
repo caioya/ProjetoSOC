@@ -17,6 +17,7 @@ public class BuscaBlogPage extends Utils {
 
 	public WebDriver driver;
 	public String resultado_esperado;
+	boolean variavel_resultado = true;
 	private By lacuna_procurar = By.cssSelector("div[data-id='0d410f5'] > div > form > div > input");
 	private By botao_procurar = By.cssSelector("div[data-id='0d410f5'] > div > form > div > button");
 	private By resultado_obtido_pesquisa = By.cssSelector("div[data-id='a57d20c'] > div > h2");
@@ -32,7 +33,6 @@ public class BuscaBlogPage extends Utils {
 	//função para iniciar o navegador e acessar o link desejado
 	public void acessar_site() {
 		driver.get("https://ww2.soc.com.br/blog/");
-		driver.findElement(botao_fechar_anuncio).click();
 	}
 	
 	//função para localizar e preenhcer o campo de pesquisa
@@ -43,6 +43,8 @@ public class BuscaBlogPage extends Utils {
 	
 	//função para clicar em procurar
 	public void procurar_info() {
+		driver.findElement(botao_fechar_anuncio).click();
+		esperar_elemento_estar_presente(botao_procurar, 10);
 		driver.findElement(botao_procurar).click();
 	}
 	

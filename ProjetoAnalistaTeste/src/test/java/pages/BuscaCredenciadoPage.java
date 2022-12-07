@@ -2,8 +2,6 @@ package pages;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -44,101 +42,117 @@ public class BuscaCredenciadoPage extends Utils {
 		this.driver = driver;
 	}
 
-	public void aceitar_cookies() {
+	//função para aceitar os cookies
+	public void aceitar_cookies() throws InterruptedException {
+		driver.findElement(botao_fechar_anuncio).click();
+		Thread.sleep(1000);
 		esperar_elemento_estar_presente(botao_cookies, 10);
 		driver.findElement(botao_cookies).click();	
 	}
-	
-	public void rolar_página_até_o_final() {
-		JavascriptExecutor jse = (JavascriptExecutor)driver;
-		jse.executeScript("window.scrollTo(0,10000)");												//rolar até o final
-	}
-	
+
+	//função para acessar a funcionalidade da Rede SOCNET
 	public void acessar_rede_SOCNET() {
-		esperar_elemento_estar_presente(botao_rede_SOCNET, 10);
+		esperar_elemento_estar_presente(botao_rede_SOCNET, 20);
 		driver.findElement(botao_rede_SOCNET).click();;
 	}
 	
+	//função para acessar a página de buscar credenciados
 	public void acessar_buscar_credenciados() {
-		/**do {
+		do {
 			driver.findElement(botao_fechar_anuncio).click();
 			esperar_elemento_estar_presente(botao_fechar_anuncio, 10);
 			if(driver.findElement(botao_acessar_credenciados).isDisplayed()) {
 				variavel_anuncio=false;
 			}
-		}while(variavel_anuncio==true);**/
+		}while(variavel_anuncio==true);
 		esperar_elemento_estar_presente(botao_acessar_credenciados, 10);
 		driver.findElement(botao_acessar_credenciados).click();
 	}
 	
+	//função para expandir as opções de conveniência
 	public void mostrar_todas_conveniencias() {
-		do {
-			driver.findElement(By.xpath("//body")).sendKeys(Keys.F5);
+		//tentativa para recarregar a página para a Rede SOCNET carregar
+		/**do {
+			driver.navigate().refresh();
 			esperar_elemento_estar_presente(botao_mostrar_conveniencias, 20);
 			if(driver.findElement(botao_mostrar_conveniencias).isDisplayed()) {
 				variavel_recarregar=false;
 			}
-		}while(variavel_recarregar==true);
-		driver.findElement(botao_mostrar_conveniencias).click();
+		}while(variavel_recarregar==true);**/
+			esperar_elemento_estar_presente(botao_mostrar_conveniencias, 20);
+			driver.findElement(botao_mostrar_conveniencias).click();
 	}
 	
+	//função para assinalar a opção wifi
 	public void clicar_wifi() {
 		driver.findElement(botao_wifi).click();
 	}
 	
+	//função para assinalar a opção ar condicionado
 	public void clicar_ar_condicionado() {
 		driver.findElement(botao_ar_condicionado).click();
 	}
 	
+	//função para assinalar a opção ambulancia
 	public void clicar_ambulancia() {
 		driver.findElement(botao_ambulancia).click();
 	}
 	
+	//função para assinalar a opção acessibilidade
 	public void clicar_acessibilidade() {
 		driver.findElement(botao_acessibilidade).click();
 	}
 	
+	//função para expandir as opções de serviços
 	public void mostrar_todos_serviços()  {
 		driver.findElement(botao_mostrar_serviços).click();
 	}
 	
+	//função para assinalar a opção Programa de Controle Médico de Saúde Ocupacional
 	public void clicar_PCMSO() {
 		driver.findElement(botao_PCMSO).click();
 	}
 	
+	//função para assinalar a opção Perfil Profissiográfico Previdenciário
 	public void clicar_PPP() {
 		driver.findElement(botao_PPP).click();
 	}
 	
+	//função para assinalar a opção eSocial
 	public void clicar_eSocial() {
 		driver.findElement(botao_eSocial).click();
 	}
 	
+	//função para expandir as opções de tamanho de área de pesquisa
 	public void clicar_area_pesquisa() {
 		esperar_elemento_estar_presente(botao_area_pesquisa, 10);
 		driver.findElement(botao_area_pesquisa).click();
 	}
 	
+	//função para assinalar a opção 40km
 	public void selecionar_area_pesquisa_40km(){
 		driver.findElement(botao_area_pesquisa_40).click();
 	}
 	
+	//função para digitar a cidade desejada e selecionar a opção sugerida (a primeira)
 	public void selecionar_cidade() {
 		driver.findElement(preencher_cidade).sendKeys(cidade);
-		WebElement clicavel = driver.findElement(preencher_cidade);
-	        new Actions(driver)
+		WebElement clicavel = driver.findElement(preencher_cidade);				//função para clicar e segurar em alguma parte da página web
+	        new Actions(driver)													//busquei do site do selenium (mouse actions)
 	                .clickAndHold(clicavel)
 	                .perform();
 		esperar_elemento_estar_presente(selecionar_cidade, 10);
 		driver.findElement(selecionar_cidade).click();
 	}
 
+	//função para selecionar o credenciado desejado (o primeiro)
 	public void selecionar_credenciado() {
 		esperar_elemento_estar_presente(botao_selecionar_credenciado, 20);
 		driver.findElement(botao_selecionar_credenciado).click();
 		driver.findElement(botao_saiba_mais).click();
 	}
 	
+	//função para obter o resultado da pesquisa e compará-lo com o esperado
 	public void checar_perfil() {
 		String resultado_obtido = driver.findElement(info_credenciado).getText();
 		Assert.assertEquals(resultado_obtido, "Serviços");

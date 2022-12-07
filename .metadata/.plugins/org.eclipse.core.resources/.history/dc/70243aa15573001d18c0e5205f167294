@@ -1,0 +1,161 @@
+package pages;
+
+import org.junit.Assert;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+
+import support.Utils;
+
+public class BuscaCredenciadoPage extends Utils {
+	
+	public WebDriver driver;
+	public String cidade = "São Paulo, SP, Brasil";
+	boolean variavel_anuncio = true;
+	boolean variavel_recarregar = true;
+	private By botao_rede_SOCNET = By.cssSelector("a[href='/socnet/'] > span");
+	private By botao_fechar_anuncio = By.cssSelector("a[class='elementor-icon'] > svg >polygon");
+	private By botao_acessar_credenciados = By.cssSelector("a[href='https://socnet.soc.com.br/'] > span");
+	private By botao_mostrar_conveniencias = By.cssSelector("div[id='div-filtro-conveniencias'] > span[class='expand-filtros']");
+	private By botao_wifi = By.cssSelector("div[id='div-filtro-conveniencias'] > section > div:nth-of-type(1) > label > span[class='cbx-estilizado']");
+	private By botao_ar_condicionado = By.cssSelector("div[id='div-filtro-conveniencias'] > section > div:nth-of-type(7) > label > span[class='cbx-estilizado']");
+	private By botao_acessibilidade = By.cssSelector("div[id='div-filtro-conveniencias'] > section > div:nth-of-type(4) > label > span[class='cbx-estilizado']");
+	private By botao_ambulancia = By.cssSelector("div[id='div-filtro-conveniencias'] > section > div:nth-of-type(13) > label > span[class='cbx-estilizado']");
+	private By botao_mostrar_serviços = By.cssSelector("div[id='div-filtro-servicos'] > span[class='expand-filtros']");
+	private By botao_PCMSO = By.cssSelector("div[id='div-filtro-servicos'] > section > div:nth-of-type(1) > label > span[class='cbx-estilizado']");
+	private By botao_PPP = By.cssSelector("div[id='div-filtro-servicos'] > section > div:nth-of-type(8) > label > span[class='cbx-estilizado']");
+	private By botao_eSocial = By.cssSelector("div[id='div-filtro-servicos'] > section > div:nth-of-type(19) > label > span[class='cbx-estilizado']");
+	private By botao_area_pesquisa = By.cssSelector("div[id='lnk-mostra-opcoes'] > span[class='alteracao']");
+	private By botao_area_pesquisa_40 = By.cssSelector("button[id='btn-distancia-40']");
+	private By preencher_cidade = By.id("ipt-busca-credenciado-2");
+	private By selecionar_cidade = By.cssSelector("div[class='autocomplete-maps-container']>div:nth-of-type(1)");
+	private By botao_selecionar_credenciado = By.cssSelector("section[data-codigo='13886']");
+	private By botao_saiba_mais = By.cssSelector("div[class='infowindow-maps'] > a > button");
+	private By info_credenciado = By.cssSelector("div[id='div-perfil-empresa'] > div:nth-of-type(2) section:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)");
+	private By botao_cookies = By.cssSelector("div[data-id='2a78197'] > div > div > a > span > span");
+	
+	//criação de construtor do driver
+	//para entregar um objeto de um modo específico
+	public BuscaCredenciadoPage(WebDriver driver) {
+		//this. para diferenciar o parâmetro do atributo
+		this.driver = driver;
+	}
+
+	//função para aceitar os cookies
+	public void aceitar_cookies() {
+		esperar_elemento_estar_presente(botao_cookies, 10);
+		driver.findElement(botao_fechar_anuncio).click();
+		driver.findElement(botao_cookies).click();	
+	}
+	
+	//função para acessar a funcionalidade da Rede SOCNET
+	public void acessar_rede_SOCNET() {
+		esperar_elemento_estar_presente(botao_rede_SOCNET, 10);
+		driver.findElement(botao_rede_SOCNET).click();;
+	}
+	
+	//função para acessar a página de buscar credenciados
+	public void acessar_buscar_credenciados() {
+		/**do {
+			driver.findElement(botao_fechar_anuncio).click();
+			esperar_elemento_estar_presente(botao_fechar_anuncio, 10);
+			if(driver.findElement(botao_acessar_credenciados).isDisplayed()) {
+				variavel_anuncio=false;
+			}
+		}while(variavel_anuncio==true);**/
+		driver.findElement(botao_fechar_anuncio).click();
+		esperar_elemento_estar_presente(botao_acessar_credenciados, 10);
+		driver.findElement(botao_acessar_credenciados).click();
+	}
+	
+	//função para expandir as opções de conveniência
+	public void mostrar_todas_conveniencias() {
+		do {
+			driver.findElement(By.xpath("//body")).sendKeys(Keys.F5);
+			esperar_elemento_estar_presente(botao_mostrar_conveniencias, 40);
+			if(driver.findElement(botao_mostrar_conveniencias).isDisplayed()) {
+				variavel_recarregar=false;
+			}
+		}while(variavel_recarregar==true);
+		esperar_elemento_estar_presente(botao_mostrar_conveniencias, 20);
+		driver.findElement(botao_mostrar_conveniencias).click();
+	}
+	
+	//função para assinalar a opção wifi
+	public void clicar_wifi() {
+		driver.findElement(botao_wifi).click();
+	}
+	
+	//função para assinalar a opção ar condicionado
+	public void clicar_ar_condicionado() {
+		driver.findElement(botao_ar_condicionado).click();
+	}
+	
+	//função para assinalar a opção ambulancia
+	public void clicar_ambulancia() {
+		driver.findElement(botao_ambulancia).click();
+	}
+	
+	//função para assinalar a opção acessibilidade
+	public void clicar_acessibilidade() {
+		driver.findElement(botao_acessibilidade).click();
+	}
+	
+	//função para expandir as opções de serviços
+	public void mostrar_todos_serviços()  {
+		driver.findElement(botao_mostrar_serviços).click();
+	}
+	
+	//função para assinalar a opção Programa de Controle Médico de Saúde Ocupacional
+	public void clicar_PCMSO() {
+		driver.findElement(botao_PCMSO).click();
+	}
+	
+	//função para assinalar a opção Perfil Profissiográfico Previdenciário
+	public void clicar_PPP() {
+		driver.findElement(botao_PPP).click();
+	}
+	
+	//função para assinalar a opção eSocial
+	public void clicar_eSocial() {
+		driver.findElement(botao_eSocial).click();
+	}
+	
+	//função para expandir as opções de tamanho de área de pesquisa
+	public void clicar_area_pesquisa() {
+		esperar_elemento_estar_presente(botao_area_pesquisa, 10);
+		driver.findElement(botao_area_pesquisa).click();
+	}
+	
+	//função para assinalar a opção 40km
+	public void selecionar_area_pesquisa_40km(){
+		driver.findElement(botao_area_pesquisa_40).click();
+	}
+	
+	//função para digitar a cidade desejada e selecionar a opção sugerida (a primeira)
+	public void selecionar_cidade() {
+		driver.findElement(preencher_cidade).sendKeys(cidade);
+		WebElement clicavel = driver.findElement(preencher_cidade);				//função para clicar e segurar em alguma parte da página web
+	        new Actions(driver)													//busquei do site do selenium (mouse actions)
+	                .clickAndHold(clicavel)
+	                .perform();
+		esperar_elemento_estar_presente(selecionar_cidade, 10);
+		driver.findElement(selecionar_cidade).click();
+	}
+
+	//função para selecionar o credenciado desejado (o primeiro)
+	public void selecionar_credenciado() {
+		esperar_elemento_estar_presente(botao_selecionar_credenciado, 20);
+		driver.findElement(botao_selecionar_credenciado).click();
+		driver.findElement(botao_saiba_mais).click();
+	}
+	
+	//função para obter o resultado da pesquisa e compará-lo com o esperado
+	public void checar_perfil() {
+		String resultado_obtido = driver.findElement(info_credenciado).getText();
+		Assert.assertEquals(resultado_obtido, "Serviços");
+	}
+}

@@ -1,7 +1,0 @@
-package utils;
-
-import runner.RunTest;
-
-public class Utils extends RunTest {
-
-}
